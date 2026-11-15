@@ -1,0 +1,18 @@
+4
+Avik Singh
+9876543213
+aviksingh@gmail.com
+Kanpur
+Employee
+5
+Bani Singh
+ 9231234789
+banisingh@gmail.com
+Agra
+Friend
+6
+Veer
+9871265348
+veer@gmail.com
+Delhi
+Best Friend
